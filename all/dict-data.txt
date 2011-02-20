@@ -1,0 +1,5 @@
+word1 sadf:definition1a asdf
+word2:definition2 asdf
+word3 asdf:definition3 asdf
+word4:definition4 asdf
+word5 dfg:definition5 asdf
